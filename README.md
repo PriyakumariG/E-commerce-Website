@@ -22,15 +22,12 @@
 ## 📸 Screenshots
 
 > 📁 Store these in a `/screenshots` folder in your repository
-
-### 🔐 Login Page  
-![Login](screenshots/login.png)
-
-### 📝 Product  
-![Register](Images/Product.png)
-
 ### 🏪 Home Page (Products)  
 ![Home](Images/Home.png)
+ 
+### 📝 Product  
+![Register](Images/Product.png)
+ 
 
 ### 🛒 Cart Page  
 ![Cart](Images/Cart.png)
