@@ -26,17 +26,17 @@
 ### 🔐 Login Page  
 ![Login](screenshots/login.png)
 
-### 📝 Register Page  
-![Register](screenshots/register.png)
+### 📝 Product  
+![Register](Images/Product.png)
 
 ### 🏪 Home Page (Products)  
-![Home](screenshots/home.png)
+![Home](Images/Home.png)
 
 ### 🛒 Cart Page  
-![Cart](screenshots/cart.png)
+![Cart](Images/Cart.png)
 
 ### 💳 Checkout / Payment  
-![Payment](screenshots/payment.png)
+![Payment](Images/payment.png)
 
 ---
 
