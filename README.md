@@ -21,7 +21,6 @@
 
 ## 📸 Screenshots
 
-> 📁 Store these in a `/screenshots` folder in your repository
 ### 🏪 Home Page (Products)  
 ![Home](Images/Home.png)
  
